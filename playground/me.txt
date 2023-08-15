@@ -1,5 +1,0 @@
-{{#user}
-Name: Gaurav Rajput
-Skills: HTML, CSS, JS, Next.js, React, Redux, tailwindcss, nodejs
-Email: joygrajput@gmail.com
-{{/user}}
